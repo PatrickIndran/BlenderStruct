@@ -27,10 +27,12 @@ BlenderStruct is a Blender add-on that automatically creates a folder structure 
 
 ## Installation
 
-1. Download the `create_folders.py` file.
-2. Open Blender and go to `Edit > Preferences > Add-ons`.
-3. Click on `Install...` and select the `create_folders.py` file.
-4. Enable the add-on by checking the box next to `BlenderStruct`.
+1. Download the `create_folders.py` file from the [Releases](https://github.com/your-username/your-repository/releases) page.
+2. Open Blender and go to **Edit > Preferences > Extensions**.
+3. In the Extensions panel, click the drop-down menu in the top-right corner and select **Install from Disk**.
+4. In the file browser that appears, navigate to and select the `create_folders.py` file.
+5. Once the add-on is installed, enable it by checking the box next to its name (e.g., *BlenderStruct*).
+6. If the add-on does not activate, check the Console window for any error messages.
 
 ### Note
 
