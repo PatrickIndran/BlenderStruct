@@ -2,6 +2,10 @@
 
 BlenderStruct is a Blender add-on that automatically creates a folder structure for your Blender projects and saves the Blender file in the appropriate folder. This add-on is designed to help you stay organized and save time by creating a consistent folder structure for your projects.
 
+> **Warning**
+> 
+> The Blender file will be saved in the 'project' subfolder within the created folder structure. Ensure that you choose the correct file name and location when using the add-on.
+
 ## Features
 
 - Automatically creates a folder structure based on the chosen file name.
@@ -34,10 +38,6 @@ BlenderStruct is a Blender add-on that automatically creates a folder structure 
 ### Note
 
 - The custom save operator is bound to `Ctrl + Alt + S`. Pressing this key combination will invoke the file selector and create the folder structure.
-
-### Disclaimer
-
-- The Blender file will be saved in the 'project' subfolder within the created folder structure. Ensure that you choose the correct file name and location when using the add-on.
 
 ## Example
 
