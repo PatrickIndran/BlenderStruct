@@ -27,7 +27,7 @@
 
 ## 🛠️ **Installation**
 
-1. Download the `create_folders.py` file from the [Releases](https://github.com/your-username/your-repository/releases) page. 📥
+1. Download the `create_folders.py` file from the [Releases](https://github.com/PatrickIndran/BlenderStruct/releases/tag/Main) page. 📥
 2. Open Blender and go to **Edit > Preferences > Extensions**. ⚙️
 3. In the Extensions panel, click the drop-down menu in the top-right corner and select **Install from Disk**. 💽
 4. In the file browser that appears, navigate to and select the `create_folders.py` file. 📂
